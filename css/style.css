@@ -325,6 +325,10 @@ width: calc((100%-72px)/4)
     
 }
 
+
+.ico-tems-a {
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
 .icon-fi {
     fill: #f4f4fd;
 }
